@@ -14,6 +14,9 @@ module.exports = {
                 color: "#2E2E2E",
                 link: "#B9B9B9",
             },
+            fontFamily: {
+                inter: "Inter",
+            },
         },
     },
     plugins: [],
