@@ -8,7 +8,7 @@ interface Data {
     gmaps: string;
 }
 
-const Data: Data[] = [
+const Data = [
     {
         id: 1,
         location: "Lombok Island, ID",
